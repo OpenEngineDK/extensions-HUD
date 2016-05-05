@@ -3,7 +3,7 @@
 git /extensions/HUD           https://github.com/OpenEngineDK/extensions-HUD.git
 git /extensions/CairoResource https://github.com/OpenEngineDK/extensions-CairoResource.git
 
-darcs-dev /extensions/CairoResource	fh.daimi.au.dk:/users/cgd/code/extensions/CairoResource
-darcs-dev /extensions/HUD		fh.daimi.au.dk:/users/cgd/code/extensions/HUD
+git-dev /extensions/CairoResource	git@github.com:OpenEngineDK/extensions-CairoResource.git
+git-dev /extensions/HUD		git@github.com:OpenEngineDK/extensions-HUD.git
 
 
